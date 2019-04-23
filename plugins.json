@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Components Extended",
+    "version": "0.9.3",
+    "category": "Plugin",
+    "tags": "component,slug,get_component,ajax,modified,created,date,components extended",
+    "tested_earliest": "3.2",
+    "tested_latest": "3.3",
+    "updated_date": "April 7, 2019",
+    "support_url": "http://get-simple.info/forums/showthread.php?tid=8503",
+    "author_url": "https://webketje.com",
+    "owner": "Tyblitz",
+    "path": "http://get-simple.info/extend/plugin/components-extended/1041/",
+    "file": "http://get-simple.info/extend/export/10656/1041/components-extended.zip",
+    "downloads": "1460",
+    "rating": 5
+  },
+  {
+    "repository": "gs_components_extended",
+    "owner": "webketje" 
+  },
+  {
+    "repository": "flat-blue",
+    "owner": "PhireWare" 
+  }
+]
